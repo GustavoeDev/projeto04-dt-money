@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 40,
       "createdAt": "2024-10-27T12:42:29.351Z"
+    },
+    {
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "price": 350,
+      "type": "outcome",
+      "createdAt": "2024-10-27T19:11:38.558Z",
+      "id": 3
+    },
+    {
+      "description": "Salário",
+      "category": "Trabalho",
+      "price": 3500,
+      "type": "income",
+      "createdAt": "2024-10-27T19:23:41.186Z",
+      "id": 4
     }
   ]
 }
